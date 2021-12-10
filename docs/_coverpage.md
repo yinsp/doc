@@ -3,7 +3,7 @@
 # YCLB 技术文档
 
 
-> 技术文档示例，使用 docsify + github
+> 技术文档示例，使用 [docsify](https://docsify.js.org/#/zh-cn/quickstart) + github
 
 
 [项目管理](http://oa.yclb.com)
